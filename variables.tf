@@ -1,2 +1,3 @@
-variable "s3_bucket" {
-}
+variable "name" {}
+variable "env" {}
+variable "acl" {}
